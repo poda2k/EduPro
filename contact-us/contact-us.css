@@ -1,0 +1,219 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    margin: 0% 0%;
+}
+.topnav {
+  background-color: #002D62;
+  overflow: hidden;
+  
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  margin-top: 10px;
+  margin-right: 5px;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.topnav a:hover {
+
+  font-size:xx-large;
+  border-radius: 70%;
+  transition:1s;
+}
+
+
+.logo
+{
+ margin-top: 10px;
+ margin-left: 10px;
+
+}
+
+#email
+{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 500px;
+height: 365px;
+right: 10%;
+top: 5%;
+
+background: #FFFFFF;
+
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box}
+
+input[type=text], input[type=Name] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ffffff;
+  }
+  input[type=email], input[type=email] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ffffff;
+  }
+  input[type=tel], input[type=number] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ffffff;
+  }
+  
+  input[type=tel]:focus, input[type=number]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #6d0505;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+#emailrec{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 80%;
+height: 420px;
+left: 10%;
+top: 30%;
+
+background: #002D62;
+
+}
+.email{
+    /* educonnect@gmail.com */
+
+position: relative;
+width: 256px;
+height: 33px;
+left: 190px;
+top: 105px;
+
+font-family: 'Faustina';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 130%;
+/* or 34px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+#gmailimg2
+{
+    /* image 4 */
+
+position: absolute;
+width: 75px;
+height: 77px;
+left: 110px;
+top: 75px;
+}
+.emailtxt
+{
+    position: absolute;
+width: 256px;
+height: 33px;
+left: 190px;
+top: 80px;
+
+font-family: 'Faustina';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 130%;
+/* or 34px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.bottomnav {
+  margin-top: 45%;
+  position: absolute;
+  height: auto;
+  width: 100%;
+  background-color: #002D62;
+  overflow: hidden;
+}
+
+.bottomnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  margin-top: 10px; 
+  margin-left: 5px;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.bottomnav a:hover {
+  font-size: xx-large;
+  border-radius: 70%;
+  transition: 1s;
+}
+
+
+#faceimg{
+  /* image 2 */
+  position: absolute;
+ 
+   margin-top: -10px;
+      margin-left: 50%;
+}
+#instimg
+{
+  position: absolute;
+ 
+   margin-top: -10px;
+      margin-left: 42%;
+}
+#gmailimg
+{
+  position: absolute;
+ 
+   margin-top: -8px;
+      margin-left: 50%;
+
+
+}

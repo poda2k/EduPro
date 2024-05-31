@@ -1,0 +1,458 @@
+body{
+    background: url("1.jpg");
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: 0px 0px ;
+    background-size:100% 90% ;
+    margin: 0% 0%;
+      }
+
+      
+      .topnav {
+        background-color: #002D62;
+        overflow: hidden;
+        
+      }
+      
+      .topnav a {
+        float: right;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        margin-top: 10px;
+        margin-right: 5px;
+        text-decoration: none;
+        font-size: 23px;
+      }
+      
+      .topnav a:hover {
+      
+        font-size:xx-large;
+        border-radius: 70%;
+        transition:1s;
+      }
+      
+    
+      .logo
+      {
+       margin-top: 10px;
+       margin-left: 10px;
+      
+      }
+#p1abtus{
+    text-align: center;
+    font-size:30px;
+
+}
+#fpg
+{
+    /* the place where you find yourself and your passions */
+
+
+    width:auto;
+    height: 192px;
+    
+   
+    
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+    
+    font-size: 40px;
+ 
+   
+    margin-top: 25%;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+#aast
+{
+/* Over more than 30 years, the AASTMT has had many achievements in education, training and research in the fields of maritime transport, engineering and management sciences. This is due to the methodological application of modern technology in these fields. The AASTMT was thus able to move from regionalism to internationalism. In 2007, the AASTMT was among the institutes that occupied the first six positions on the list of the ISO''s (International Organization for Standardization) international educational institutes who were to receive the Organization''s award for standard levels of higher education. */
+position:relative;
+width: auto;
+height: 50px;
+left: 10px;
+margin-top: 20%;
+font-family: 'Neuton';
+font-style: normal;
+font-size: 25px;
+color: #000000;
+}
+#aastt
+{   
+    position: relative;
+    top: 100%;
+    margin-left:410px;
+
+}
+.aastlogo
+{
+position: absolute;
+width: 400px;
+height: 400px;
+margin-left: 0px;
+margin-top: 0px;
+border-radius: 184px;
+}
+.aastapply 
+{
+position:relative;
+width: 160px;
+height: 32px;
+left: 80%;
+text-decoration: none;
+top: 170%;
+font-style: normal;
+font-size: 19px;
+text-align: center;
+line-height: 160%;
+text-decoration: none;
+text-transform: uppercase;
+color: #FFFFFF;
+background-color: #90261f;
+}
+#pua
+{
+    /* Pharos University in Alexandria (PUA) is a non-governmental and profit making university in Alexandria, Egypt. It obtained the license from the Egyptian Supreme Council of Private Universities to begin operation in the 2006–2007 academic year. It includes eleven faculties: Pharmacy and Drug Manufacturing, Dentistry, Engineering, Languages and Translation, Financial and Administrative Sciences, Legal Studies and International Relations, Tourism and Hotel Management, Allied Medical Sciences, Mass Communication, Physical Therapy, Arts and Design. */
+
+    position:absolute;
+    width: 100%;
+    height: 50px;
+    left: 10px;
+    margin-top: 30%;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-size: 25px;
+    color: #000000;
+}
+#puaa
+{
+    position: relative;
+    top: 100%;
+    margin-left:410px;
+
+}
+.puelogo
+{
+    /* download 1 */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 0px;
+    top: 0px;
+    border-radius: 184px;
+}
+.puaapply
+{
+    position:relative;
+    width: 160px;
+    height: 32px;
+    left: 80%;
+    margin-top: 5%;
+    font-style: normal;
+    font-size: 19px;
+    text-align: center;
+    line-height: 160%;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #90261f;
+}
+#auc
+{
+    /* Experienced Professionals — Explore More than 35 Undergraduate Majors across a Variety of Disciplines. Learn more about majors, courses, scholarships & admissions at AUC. Leadership. History. Accreditation. Scholarships. Destinations: Undergraduate Admission, Apply to AUC, Explore All Programs. */
+    position:absolute;
+    width: 100%;
+    height: 50px;
+    left: 10px;
+    margin-top: 70%;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-size: 25px;
+    color: #000000;
+}
+.auclogo
+{
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 0px;
+    top: 0px;
+    border-radius: 184px;
+}
+#aucc
+{
+    position: relative;
+    top: 100%;
+    margin-left:410px;
+}
+.aucapply
+{
+    /* Apply Now */
+
+    position:relative;
+    width: 160px;
+    height: 32px;
+    left: 80%;
+    margin-top: 5%;
+    font-style: normal;
+    font-size: 19px;
+    text-align: center;
+    line-height: 160%;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #90261f;
+
+}
+#guc
+{
+    /* The German International University (GIU) offers academic degrees (Bachelor’s, Masters and PhD Degrees) based on the German study curricula, academic standards, study rules and regulations. The German International University offers scientific degrees in a variety of specializations, among others: Engineering , Informatics and Computer Science , Design in the field of Business Administration , Architecture Engineering , Pharmaceutical Engineering & Technology and Biotechnology. */
+
+    position:absolute;
+    width: 100%;
+    height: 50px;
+    left: 10px;
+    margin-top: 105%;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-size: 25px;
+    color: #000000;
+}
+.guclogo
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 0px;
+    top: 0px;
+    border-radius: 184px;
+}
+#gucc
+{
+    position: relative;
+    top: 100%;
+    margin-left:410px;
+}
+.gucapply
+{
+    /* Apply Now */
+    position:relative;
+    width: 160px;
+    height: 32px;
+    left: 80%;
+    margin-top: 5%;
+    font-style: normal;
+    font-size: 19px;
+    text-align: center;
+    line-height: 160%;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #90261f;
+
+}
+
+#bue
+{
+    /* The British University in Egypt is a private Egyptian university in El Shorouk City, Cairo, Egypt. Founded in September 2005, through an inter-governmental agreement, it provides a British education style and awards degrees validated by its partner UK universities and the Egyptian Supreme Council of Universities.  */
+
+    position:absolute;
+    width: 100%;
+    height: 50px;
+    left: 10px;
+    margin-top: 145%;
+    text-decoration: none;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-size: 25px;
+    color: #000000;
+}
+.buelogo
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 0px;
+    top: 0px;
+   
+}
+#buee{
+    position: relative;
+    top: 100%;
+    margin-left:410px;
+}
+.bueapply
+{
+   /* Apply Now */
+   position:relative;
+   width: 160px;
+   height: 32px;
+   left: 80%;
+   margin-top: 5%;
+   font-style: normal;
+   font-size: 19px;
+   text-align: center;
+   line-height: 160%;
+   text-decoration: none;
+   text-transform: uppercase;
+   color: #FFFFFF;
+   background-color: #90261f;
+}
+/* ////////////////////////////////////////////////////////////////////////////////////\
+/////////////////////////////////////////////////////////////////*/
+#msa
+{
+    /* October University for Modern Sciences and Arts (MSA University) is a leading Egyptian educational institution in higher education in cooperation with British Universities, MSA introduces well-developed academic programs using the latest technology and the most efficient staff. */
+
+    position:absolute;
+    width: 100%;
+    height: 50px;
+    left: 10px;
+    margin-top: 185%;
+    text-decoration: none;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-size: 25px;
+    color: #000000;
+}
+#msaa
+{
+    position: relative;
+    top: 100%;
+    margin-left:410px;
+
+}
+.msalogo{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 0px;
+    top: 0px;
+}
+.msaapply
+{
+    /* Apply Now */
+    position:relative;
+    width: 160px;
+    height: 32px;
+    left: 80%;
+    margin-top: 5%;
+    font-style: normal;
+    font-size: 19px;
+    text-align: center;
+    line-height: 160%;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #90261f;
+}
+
+
+
+#rectangle2{
+    /* Group 2 */
+  
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  top: 4000px;
+  background: #002D62;
+  border-radius: 3px;
+  }
+  #faceimg{
+    /* image 2 */
+  
+  position: absolute;
+  left: 1136px;
+  top: 4150px;
+  }
+  #instimg
+  {
+    /* image 3 */
+  
+  position: absolute;
+  
+  left: 1210px;
+  top: 4150px;
+  }
+  #gmailimg
+  {
+  
+  position: absolute;
+  left: 1284px;
+  top: 4150px;
+  }
+  #follow
+  {
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400;
+    font-size: 40px;
+    left: 1165px;
+    top: 4050px;
+    color: #FFFFFF;
+  }
+  #haq{
+    /* Have a question ? */
+  
+  position: absolute;
+  width: 300px;
+  height: 38px;
+  left: 450px;
+  top: 4020px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  
+  color: #FFFFFF;
+  
+  
+  }
+  #list2{
+    text-align: center;
+    float: right;
+    
+  }
+  #listtwo{
+   /* Group 6 */
+  list-style-type: none;
+  position: absolute;
+  text-decoration: none;
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 1000px;
+  height: 63px;
+  left: -300px;
+  top:4150px;
+  
+  color: white;
+  float: right;
+  display: inline;
+  text-align: center;
+  }
+  .li
+  {
+      color: #FFFFFF;
+      float: right;
+  }
+  .li a {
+      position: relative;
+      text-decoration: none;
+      padding: 15px;
+      color: #FFFFFF;
+  }
+  a:visited{
+      color: rgb(255, 255, 255);
+      
+  }
+  a:hover{
+      font-size: 31px;
+      transition:1s;
+      color: #FFFFFF;
+  }

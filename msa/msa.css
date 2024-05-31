@@ -1,0 +1,303 @@
+body{
+    background: url("msa.jpg");
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: 0px 70px ;
+    background-size:100% 780px ;
+    margin: 0% 0%; 
+  }
+  .topnav {
+      background-color: #002D62;
+      overflow: hidden;
+      color: #FFFFFF;
+    }
+    
+    .topnav a {
+      float: right;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      margin-top: 10px;
+      margin-right: 5px;
+      text-decoration: none;
+      font-size: 23px;
+    }
+    
+    .topnav a:hover {
+    
+      font-size:xx-large;
+      border-radius: 70%;
+      transition:1s;
+      color: #FFFFFF;
+    }
+    
+  
+    .logo
+    {
+     margin-top: 10px;
+     margin-left: 10px;
+    
+    }
+  .li
+  {
+      
+      float: right;
+      color: #FFFFFF;
+  }
+  .li a {
+      position: relative;
+      text-decoration: none;
+      padding: 15px;
+      color: #FFFFFF;
+  }
+  
+#contactinf
+{
+    /* Contact Information */
+
+position: absolute;
+width: 1000px;
+height: 82px;
+left: 150px;
+top: 310px;
+text-align: left;
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 109px;
+
+color: #FFFFFF;
+}
+#email
+{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 500px;
+height: 365px;
+left: 580px;
+top: 920px;
+
+background: #FFFFFF;
+
+}
+
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #6d0505;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+#emailrec{
+  /* Group 27 */
+font-size:larger;
+position: absolute;
+width: 30%;
+height: 80px;
+left:40%;
+top: 900px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 64px;
+color:#D9D9D9;
+background-color: #002D62;
+
+}
+
+.sss{
+  position: absolute;
+  width: 1071px;
+  height: 698px;
+  left: 68px;
+  top: 1000px;
+  text-align: left;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 47px;
+  
+  color: #000000;
+  
+}
+.rdiv{
+  position: absolute;
+width: 100%;
+height: 480px;
+left: 0px;
+top: 1480px;
+
+
+
+}
+
+.rdtext{
+
+
+  position: absolute;
+
+  width: 535px;
+  height: 75px;
+  left: 164px;
+  top: 110px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 94px;
+  color: #FFFFFF;
+}
+.container2{
+  /* Rectangle 9 */
+
+position: absolute;
+width: 450px;
+height: 420px;
+left: 823px;
+
+
+background: #D9D9D9;
+
+}
+.in{
+margin: 20px;
+padding: 20px;
+margin-top: 150px;
+}
+.txt{
+ 
+font-family: 'Cousine';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 39px;
+position: absolute;
+width: 235px;
+height: 21px;
+left: 20px;
+}
+.subs{
+  background-color:#002D62;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+  width: 375px;
+  top: 50px;
+  
+}
+#rectanglet{
+  /* Group 2 */
+
+position: absolute;
+width: 100%;
+height: 300px;
+left: 0px;
+top: 1930px;
+
+
+background: #002D62;
+border-radius: 3px;
+}
+#faceimg{
+  /* image 2 */
+
+position: absolute;
+right: 210px;
+top: 2110px;
+}
+#instimg
+{
+  /* image 3 */
+
+position: absolute;
+right: 140px;
+top: 2110px;
+}
+#gmailimg
+{
+
+position: absolute;
+right: 70px;
+top: 2110px;
+}
+#follow
+{
+  position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  max-width: 400;
+  font-size: 40px;
+  right:90px;
+  top: 2000px;
+  color: #FFFFFF;
+}
+#haq{
+  /* Have a question ? */
+
+position: absolute;
+width: 300px;
+height: 38px;
+left: 450px;
+top: 1960px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+
+}
+#list2{
+  text-align: center;
+  float: right;
+  
+}
+#listtwo{
+ /* Group 6 */
+list-style-type: none;
+position: absolute;
+text-decoration: none;
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 1000px;
+height: 63px;
+left: -350px;
+top: 2110px;
+
+color: white;
+float: right;
+display: inline;
+text-align: center;
+
+
+
+}
+
+.dnav{
+  color: #FFFFFF;
+}

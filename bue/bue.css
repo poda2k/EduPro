@@ -1,0 +1,278 @@
+body{
+    display: block;
+    min-width:600px;
+    max-width: 1920px;
+    background: url("h2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: 0px 70px ;
+    background-size:100% 780px ;
+    margin: 0% 0%; 
+}
+.topnav {
+    background-color: #002D62;
+    overflow: hidden;
+    color: #FFFFFF;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-decoration: none;
+    font-size: 23px;
+  }
+  
+  .topnav a:hover {
+  
+    font-size:xx-large;
+    border-radius: 70%;
+    transition:1s;
+    color: #FFFFFF;
+  }
+  
+
+  .logo
+  {
+   margin-top: 10px;
+   margin-left: 10px;
+  
+  }
+.li
+{
+    
+    float: right;
+    color: #FFFFFF;
+}
+.li a {
+    position: relative;
+    text-decoration: none;
+    padding: 15px;
+    color: #FFFFFF;
+}
+
+.pageone{
+    /* Welcome To Pharos University in Alexandria */
+
+position: absolute;
+width: auto;
+height: auto;
+left: 72px;
+top: 338px;
+display: block;
+font-family: 'Inter';
+font-size: 37px;
+
+text-align: left;
+color: #FFFFFF;
+
+}
+.pageonne
+{
+    position: absolute;
+    width: auto;
+    height: 82px;
+    left: 72px;
+    top: 380px;
+    display: block;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 45px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.button{
+    /* How To Apply To PUA */
+    display: block;
+position: absolute;
+width: 584.27px;
+height: 65px;
+left: 25%;
+top: 850px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size:153%;
+line-height: 64px;
+color: #FFFFFF;
+background-color: #002D62;
+}
+#collegeslist
+{
+    display: block;
+ position: absolute;
+ width:auto;
+ height: 698px;
+ left: 68px;
+ top: 1000px;
+ 
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 2vw;
+ line-height: 47px;
+ 
+ color: #000000;
+}
+
+
+.st{
+    /* AdobeStock_295631594 1 */
+    display: block;
+position: absolute;
+width: 100%;
+height: 382px;
+left: 0%;
+top: 1585px;
+
+background: url("AdobeStock_295631594.jpg");
+
+}
+.lai{
+    /* learn about international students program */
+    display: block;
+position: absolute;
+width: auto;
+height: 37px;
+left: 150px;
+top: 1739px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: auto;
+line-height: 69px;
+
+color: #FFFFFF;
+
+
+}
+
+#sturev{
+    /* Student Review */
+display: block;
+position: absolute;
+width: auto;
+height: auto;
+left: 43px;
+top: 1950px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: auto;
+line-height: 45px;
+
+color: #000000;
+}
+#best{
+    /* The best part about the course is that you always feel the support from all tutors. Questions were always welcomed and discussed. */
+    display: block;
+position: absolute;
+width:auto;
+height: 190px;
+left: 0px;
+top: 2000px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 37px;
+
+line-height: 45px;
+background-color: #434343;
+color: #FFFFFF;
+}
+#rectanglet{
+    /* Group 2 */
+/* Group 5 */
+display: block;
+position: absolute;
+width: 100%;
+height: 250px;
+left: 0px;
+top: 2250px;
+background: #002D62;
+border-radius: 3px;
+
+}
+#faceimg{
+    /* image 2 */
+    display: block;
+position: absolute;
+left: 1136px;
+top: 2350px;
+}
+#instimg
+{
+    /* image 3 */
+    display: block;
+position: absolute;
+
+left: 1210px;
+top: 2350px;
+}
+#gmailimg
+{
+    display: block;
+position: absolute;
+left: 1284px;
+top: 2350px;
+}
+#follow
+{
+    display: block;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400;
+    font-size: 40px;
+    left: 1165px;
+    top: 2250px;
+    color: #FFFFFF;
+}
+#haq{
+    /* Have a question ? */
+    display: block;
+position: absolute;
+width: auto;
+height:auto;
+left: 40%;
+text-align: center;
+top: 2250px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+
+}
+#list2{
+    text-align: center;
+}
+#listtwo{
+   /* Group 6 */
+list-style-type: none;
+position: absolute;
+display: block;
+font-size:32px;
+text-align: left;
+float: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: auto;
+height: 63px;
+top: 2350px;
+text-decoration: none;
+}
+@media screen and (max-width: 600px) {
+    .li, #list,.right {
+      max-width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+}

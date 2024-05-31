@@ -1,0 +1,275 @@
+body{
+    background: url("h2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: 0px 70px ;
+    background-size:100% 780px ;
+    margin: 0% 0%;
+    
+}
+.topnav {
+    background-color: #002D62;
+    overflow: hidden;
+    
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-decoration: none;
+    font-size: 23px;
+  }
+  
+  .topnav a:hover {
+  
+    font-size:xx-large;
+    border-radius: 70%;
+    transition:1s;
+  }
+  
+
+  .logo
+  {
+   margin-top: 10px;
+   margin-left: 10px;
+  
+  }
+.pageone{
+    /* Welcome To aast University in Alexandria */
+
+position: absolute;
+width: auto;
+height: 82px;
+left: 72px;
+top: 338px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 45px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+.pageonne
+{
+    position: absolute;
+    width:  auto;
+    height: 82px;
+    left: 72px;
+    top: 380px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 45px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.button{
+    /* How To Apply To PUA */
+position: absolute;
+width: auto;
+height: auto;
+left: 380px;
+top: 850px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+
+font-size: 53px;
+
+color: #FFFFFF;
+background-color: #002D62;
+}
+.pagelist{
+    /* Colleges financial & administrative Engineering legal studies & international relation Arts & design Tourism & Hotel management Mass communication Language & translation Physical therapy Pharmacy Applied health sciences Technology College of Dentistry Computer science & Artificial intelligence */
+
+position: absolute;
+width: auto;
+height: 698px;
+left: 40px;
+top: 1000px;
+
+font-family: 'Inter';
+font-style: normal;
+font-size: 39px;
+
+
+color: #000000;
+
+}
+.img
+{
+    /* international_degrees*/
+  
+    width: 100%;
+    height: 667px;
+}
+.imgg
+{
+    
+    width: 100%;
+    height: 661px;
+    top: 1510px;
+}
+#sturev{
+    /* Student Review */
+
+position: absolute;
+width: auto;
+height: 56px;
+left: 43px;
+top: 3150px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 45px;
+
+color: #000000;
+}
+#best{
+    /* The best part about the course is that you always feel the support from all tutors. Questions were always welcomed and discussed. */
+
+position: absolute;
+width:auto;
+height: 150px;
+left: 0px;
+top: 3219px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 37px;
+
+line-height: 45px;
+background-color: #434343;
+color: #FFFFFF;
+}
+#bestt{
+    position: absolute;
+width:auto;
+height: 210px;
+left: 0px;
+top: 3385px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 37px;
+
+line-height: 45px;
+outline-color: #000000;
+background-color: #434343;
+color: #FFFFFF;
+}
+#rectanglet{
+    /* Group 2 */
+
+position: absolute;
+width: 100%;
+height: 300px;
+left: 0px;
+top: 3650px;
+
+
+background: #002D62;
+border-radius: 3px;
+
+}
+#faceimg{
+    /* image 2 */
+width: auto;
+position: absolute;
+left: 1136px;
+top: 3825px;
+}
+#instimg
+{
+    /* image 3 */
+width: auto;
+position: absolute;
+
+left: 1210px;
+top: 3825px;
+}
+#gmailimg
+{
+width:auto ;
+position: absolute;
+left: 1284px;
+top: 3825px;
+}
+#follow
+{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: auto;
+    font-size: 40px;
+    left: 1165px;
+    top: 3700px;
+    color: #FFFFFF;
+}
+#haq{
+    /* Have a question ? */
+
+position: absolute;
+width: 300px;
+height: 38px;
+left: 545px;
+top: 3650px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+
+}
+#list2{
+    text-align: center;
+}
+#listtwo{
+   /* Group 6 */
+list-style-type: none;
+position: absolute;
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 1000px;
+height: 63px;
+left: 0px;
+top: 3825px;
+text-decoration: none;
+}
+.li
+{
+    color: #FFFFFF;
+    float: left;
+}
+.li a {
+    position: relative;
+    text-decoration: none;
+    padding: 15px;
+    color: #FFFFFF;
+}
+a:visited{
+    color: rgb(255, 255, 255);
+    
+}
+a:hover{
+    font-size: 31px;
+    transition:1s;
+    color: #FFFFFF;
+}
