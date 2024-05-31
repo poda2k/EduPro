@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="../style/contactStyle.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <nav class="main-navbar">
+                <ul class="nav-ul">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Colleges</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                    <li id="login-btn"><a href="contact.html">logIn</a></li>
+                </ul>
+            </nav>
+        </header>
+    
+        <main class="container">
+            <div class="row">
+                <section class="col-md-6 firstCol">
+                   <div>
+                    <ul>
+                        <li><i class="fa-regular fa-envelope"></i></li>
+                        <li>Email<br> <span class="" style="display: block;
+                            font-size: 20px;
+                            color: #666; 
+                            margin-top: 0px;">educonnect@gmail.com</span></li><br>
+                    </ul>
+                   </div>
+                </section>
+    
+                <section class="col-md-6 secCol">
+                    
+                    <form action="submit_form.php" method="post">
+                        <h2>Leave Us a Message</h2>
+                        <input type="text" id="name" name="name" placeholder="name" required><br>
+    
+                        <input type="email" id="email" name="email" placeholder="email" required><br>
+    
+                        <input type="text" id="message" name="message" placeholder="message"><br>
+    
+                        <button type="submit">SEND</button>
+                    </form>
+                </section>
+    
+            </div>
+    
+        </main>
+    
+    </div>
+    
+    <footer class="footer">
+        <div class="footer-content">
+
+            <div class="row">
+                <div class="col-md-6">
+                    <nav class="footer-nav">
+                        <div class="question-cont">
+                            <ul>
+                                <li><a href="privacy.html" class="footer-link">Have question ?</a></li>
+                            </ul>
+                        </div>
+                        <ul class="footer-menu">
+                            <li class="footer-item"><a href="privacy.html" class="footer-link">Home</a></li>
+                            <li class="footer-item"><a href="terms.html" class="footer-link">About Us</a></li>
+                            <li class="footer-item"><a href="privacy.html" class="footer-link">colleges</a></li>
+                            <li class="footer-item"><a href="privacy.html" class="footer-link">contact Us</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-md-6">
+                    <div class="text-right">
+                        <ul class="secFooter-menu">
+                            <li>follow us</li>
+                            <li><i class="fa-brands fa-facebook"></i> <span style="padding:0px 4px ;"></span><i
+                                    class="fa-brands fa-instagram"></i><span style="padding:0px 4px ;"></span><i
+                                    class="fa-regular fa-envelope"></i></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://kit.fontawesome.com/0974be164e.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
