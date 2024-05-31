@@ -64,8 +64,8 @@ main{
     text-align: center;
     position: relative;
     left: 0;
-    bottom: 0px;
-    height: 150px;
+    /* bottom: 0px; */
+    /* height: 150px; */
     width: 100%;
     
 }
