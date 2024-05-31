@@ -1,469 +1,277 @@
 body{
-  
-
-    margin: 0;
-    padding: 0;
-    }
-
-    .topnav {
-      overflow: hidden;
-    }
-    
-    .topnav a {
-      float: right;
-      color: #f2f2f2;
-      text-align: center;
-      padding: 14px 16px;
-      margin-top: 10px;
-      margin-right: 5px;
-      text-decoration: none;
-      font-size: 23px;
-    }
-    
-    .topnav a:hover {
-    
-      font-size:xx-large;
-      border-radius: 70%;
-      transition:1s;
-    }
-    
-  
-    .logo
-    {
-    
-     margin-top: 10px;
-     margin-left: 10px;
-    
-    }
-
-  .text{
-
-    /* Why would you choose EDU Connect ? */
-
-    width:auto;
-    height: 192px;
-    
-   
-    
-    font-family:'Times New Roman', Times, serif;
-    font-style: normal;
-    
-    font-size: 40px;
- 
-   
-    margin-top: 25%;
-    text-align: center;
-    
-    color: #FFFFFF;
-
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  #header2{
-    background-color:blue;
-    
-    color:white;
-    width: 100%;
-    margin: 0;
-    padding:0%;
-    text-align: center
-  
-
-  }
-
-.c
-{
-justify-content: center;
-
-position: absolute;
-width: 350px;
-height: 500px;
-right: 950px;
-top: -850px;
-
-background: url(b283c962fc9bb44b1d87166c06615330.jpg);
-
-
-}
-.b{
-  justify-content: center;
-
-  position: absolute;
-  width: 350px;
-  height: 500px;
-  right: 250px;
-  top: -850px;
-  
-  background: url(b283c962fc9bb44b1d87166c06615330.jpg);
-  
-}
-
-  .txt{
-    font-size: 20px;
-    text-align: center;
-    
-    /* Why You Choose Edu Connect ? */
-position: absolute;
-top: 1475px;
-
-font-family: 'Inter';
-font-style: normal;
-
-
-line-height: 160%;
-/* or 64px */
-letter-spacing: -0.01em;
-
-color: #000000;
-
-
-  }
-  .a{
-    justify-content: center;
-
-    position: absolute;
-    width: auto;
-    height: 500px;
-    left: 650px;
-    top: 1500px;
-
-  }
-
-
-
-
-  .p0{
-  /* Apply Now */
-
-position: absolute;
-width: 246px;
-height: 30px;
-right: 100px;
-top: 135px;
-padding: 15px 0px;
-text-align: center;
-font-family: 'Inter';
-font-style: italic;
-font-weight: 800;
-font-size: 20px;
-line-height: 160%;
-/* identical to box height, or 32px */
-letter-spacing: 0.04em;
-text-transform: uppercase;
-background-color: #980000;
-color: #FFFFFF;
-  }
-
-.p1{
-
-
-position: absolute;
-width: 246px;
-height: 51px;
-left: 31px;
-top: 160px;
-
-background: #95959E;
-border: none;
-color: #FFFFFF;
-
-}
-.p2{
-
-
-position: absolute;
-width: 271px;
-height: 51px;
-left: 358px;
-top: 160px;
-
-background: #95959E;
-border: none;
-color: #FFFFFF;
-
-}
-.p3{
-
-
-position: absolute;
-width: 240px;
-height: 51px;
-left: 704px;
-top: 160px;
-
-background: #95959E;
-border: none;
-color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
 
 }
 
-
-  .mid{
-    display: flex;
-    
-    /* Group 4 */
-
-    position: absolute;
-    width: 1287px;
-    height: 662px;
-    left: 75px;
-    top: 1634px;
-
-
-  }
-
-
-.h2{
-position: relative;
-max-width: 1287px;
-height: 662px;
-left: 75px;
-top: 1634px;
-display: flex;
-
-
-  }
-
-
-
-
-.img{
-position: absolute;
-width: 100%;
-height: 150px;
-left: 0px;
-top: 400px;
-
-
-}
-
-
-.logo
-{
-    position: absolute;
-    width: 217px;
-    height: 83px;
-    left: 20px;
-    top: 10px;
-
-}
-
-
-
-
-
-
-#rectangle{
-  /* Group 2 */
-
-position: absolute;
-width: 100%;
-height: 300px;
-
-top: 950px;
-
-
-background: #002D62;
-
-
-}
-#faceimg{
-  /* image 2 */
-
-position: absolute;
-left: 930px;
-top: 1100px;
-}
-#instimg
-{
-  /* image 3 */
-
-position: absolute;
-
-left: 1000px;
-top: 1100px;
-}
-#gmailimg
-{
-
-position: absolute;
-left: 1070px;
-top: 1100px;
-}
-#follow
-{
-  position: absolute;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  width: 400;
-  font-size: 40px;
-  left: 950px;
-  top: 1000px;
-  color: #FFFFFF;
-}
-
-
-
-
-.dnav{
-  color: #FFFFFF;
-}
-/* Style the form - display items horizontally */
-.form-inline {
-  display: flex;
-  flex-flow: row wrap;
-  align-items: center;
- 
-  
-}
-
-/* Add some margins for each label */
-.form-inline label {
-  margin: 5px 10px 5px 0;
-}
-
-/* Style the input fields */
-.form-inline input {
-  vertical-align: middle;
-  margin: 5px 10px 5px 0;
-  
-  padding: 10px;
-  background-color: #fff;
-  border: 1px solid #ddd;
-}
-
-/* Style the submit button */
-.submit {
-  padding: 10px 20px;
-  background-color: red;
+a {
   text-decoration: none;
-  list-style-type: none;
+  color: #d9dce0;
+  font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+li {
+  list-style: none;
+}
+
+
+
+.navbar {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  /* Make the navbar fixed to the viewport */
+  top: 1;
+  /* Position it at the top of the viewport */
+  left: 0;
+  /* Position it at the left of the viewport (adjust as needed) */
+  /* ... other navbar styles ... */
+  z-index: 10;
+  /* Optional: Set a higher z-index if needed */
+  /* height: 10vh; */
+}
+
+.navbar .img img {
+  margin: 20px;
+  width: 25%;
+  height: 25%;
+}
+
+.navbar .img {
+  padding-top: 10px;
+  margin: 20px;
+
+}
+
+.navbar .list button{
+  background-color: rgb(152,0,0);
+  color: white;
+  padding: 1.5px;
+  width: 100px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+
+
+.list ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* margin-right: 40px; */
+}
+
+.list ul li {
+  margin-right: 50px;
+  /* padding: 10px; */
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* end navbar */
+
+
+.home {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  background-image: url("2o.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+
+
+.home-img {
+  display: none;
   
+  /* Hide the original image element */
+}
+
+.home-text {
+display: flex;
+flex-direction: column;
+flex-direction: space-evenly;
+justify-content: center;
+align-items: center;
+width: 100%;
+/* height: %; */
+
+ 
+}
+
+
+.inputs ul{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content:space-between;
+  align-items: center;
+  width: 100%;
+  margin-left: 20px;
+}
+.inputs ul button{
+  background-color: #fff;
+  color: black;
+  padding: 1.5px;
+  width: 100px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.home-text h1 {
+  margin: 0;
+  padding: 1rem;
+  font-size: 49px;
+  font-weight: 700;
+  color: white;
+}
+.home-text p {
+  font-size: 30px;
+  /* white-space: nowrap; */
+;   
+}
+
+
+
+
+
+/* end home */
+/* enroll */
+.enroll{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100%;
+  margin:20px;
+  width: 100%;
+  margin:20px 0 20px 0 ;
+
+}
+
+.enroll  img{
+  width: 70%;
+  height: 100%;
+}
+
+/* enroll */
+
+/* end */
+.why{
+  display: flex;
+  flex-direction: row;  
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+  margin:20px 0 20px 0 ;
+  background-color: aliceblue;
+}
+
+.why-text h2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+.why-text p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.why .why-img img{
+  width: 80%;
+  height: 80%;
+}
+
+/* end */
+
+
+.coll ul{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+
+
+}
+
+
+.coll ul li img{
+  width: 100%;
+  height: 100%;
+}
+
+/*fotter */
+
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 25px;
+  width: 100%;
+  height: 300px;
+  background-color: rgb(0, 45, 90);
+}
+
+.footer .first-section {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer h2 {
+  color: white;
+  font-size: 35px;
+  font-family: inter, sans-serif;
+}
+
+.footer .footer-list ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.footer .footer-list ul li {
+  margin-right: 50px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer .footer-list ul li a {
+  font-size: 30px;
   color: white;
 }
 
-.search{
- 
-  margin-left: 32%;
- 
+.footer .second-section {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
 }
 
- .one{
-  width: 200px;
-
-  
-
-}
-#rectangle2{
-  /* Group 2 */
-
-position: absolute;
-width: 100%;
-height: 300px;
-top: 2300px;
-background: #002D62;
-border-radius: 3px;
-}
-#faceimg{
-  /* image 2 */
-
-position: absolute;
-left: 1136px;
-top: 2450px;
-}
-#instimg
-{
-  /* image 3 */
-
-position: absolute;
-
-left: 1210px;
-top: 2450px;
-}
-#gmailimg
-{
-
-position: absolute;
-left: 1284px;
-top: 2450px;
-}
-#follow
-{
-  position: absolute;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  width: 400;
-  font-size: 40px;
-  left: 1165px;
-  top: 2380px;
-  color: #FFFFFF;
-}
-#haq{
-  /* Have a question ? */
-
-position: absolute;
-width: 300px;
-height: 38px;
-left: 450px;
-top: 2320px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 39px;
-
-color: #FFFFFF;
-
-
-}
-#list2{
+.footer .second-section ul {
   text-align: center;
-  float: right;
-  
+  padding: 0;
 }
-#listtwo{
- /* Group 6 */
-list-style-type: none;
-position: absolute;
-text-decoration: none;
-font-size: 35px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-width: 1000px;
-height: 63px;
-left: -300px;
-top: 2450px;
 
-color: white;
-float: right;
-display: inline;
-text-align: center;
+.footer .second-section img {
+  width: 30px; /* Adjust as needed for social media icons */
+  height: 30px; /* Adjust as needed for social media icons */
 }
-.li
-{
-    color: #FFFFFF;
-    float: right;
-}
-.li a {
-    position: relative;
-    text-decoration: none;
-    padding: 15px;
-    color: #FFFFFF;
-}
-a:visited{
-    color: rgb(255, 255, 255);
-    
-}
+
+
 
